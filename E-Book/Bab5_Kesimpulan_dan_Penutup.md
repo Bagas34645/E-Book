@@ -36,20 +36,6 @@ Sepanjang perjalanan E-Book ini, kita telah berhasil membangun aplikasi AI Image
 - **File Upload**: Sistem upload gambar yang mudah digunakan
 - **Real-time Results**: Prediksi instant dengan confidence scores
 
-### Pencapaian Teknis
-
-**Performance Metrics yang Dicapai:**
-- ⚡ **Response Time**: < 100ms untuk prediksi single image
-- 💾 **Memory Usage**: < 500MB total aplikasi
-- 📱 **Compatibility**: Berjalan di hardware modest (4GB RAM)
-- 🎯 **Accuracy**: 71.8% ImageNet Top-1 accuracy
-
-**Development Efficiency:**
-- 🚀 **Setup Time**: Environment ready dalam 15 menit
-- 📦 **Model Size**: Hanya 14MB (vs 100MB+ model tradisional)
-- 🔧 **Dependencies**: Minimal dan stable
-- 🌐 **Deployment**: Siap deploy ke cloud dengan satu command
-
 ### Manfaat yang Didapat
 
 **Skill Development:**
@@ -57,17 +43,6 @@ Sepanjang perjalanan E-Book ini, kita telah berhasil membangun aplikasi AI Image
 - ✅ **AI/ML Concepts**: Transfer learning, computer vision, model optimization
 - ✅ **Software Engineering**: Clean code, error handling, performance optimization
 - ✅ **Problem Solving**: Systematic approach untuk debugging dan troubleshooting
-
-**Career Opportunities:**
-- 🎯 **AI/ML Engineer**: Entry level $70K-95K, Senior $140K-200K+
-- 🎯 **Computer Vision Engineer**: Specialized roles dalam automotive, healthcare, manufacturing
-- 🎯 **Full-Stack AI Developer**: Combining backend ML dengan frontend development
-- 🎯 **Technical Consultant**: Helping businesses implement AI solutions
-
-**Project Portfolio:**
-- 📁 **Working AI Application**: Demonstrasi kemampuan end-to-end development
-- 📁 **Production-Ready Code**: Clean, documented, dan scalable codebase
-- 📁 **Modern Tech Stack**: Menggunakan tools terbaru yang relevan di industri
 
 ## Penutup
 
@@ -85,23 +60,6 @@ Kita tidak hanya belajar teori, tapi langsung praktik membangun aplikasi nyata. 
 
 **3. Modern Tools & Best Practices**
 Menggunakan tools terbaru seperti UV, Python 3.12, dan MobileNetV2 memastikan skill yang dipelajari relevant untuk industri saat ini.
-
-### Langkah Selanjutnya
-
-**Immediate Actions (1-2 minggu):**
-1. **Experiment dengan Model**: Coba model lain seperti EfficientNet atau ResNet
-2. **Improve UI**: Tambahkan features seperti batch upload atau confidence threshold
-3. **Deploy Online**: Upload ke Streamlit Cloud atau Heroku untuk portfolio
-
-**Short Term (1-3 bulan):**
-1. **Learn Advanced CV**: Object detection, semantic segmentation
-2. **Master MLOps**: Model versioning, monitoring, CI/CD untuk ML
-3. **Explore Domains**: Medical imaging, autonomous vehicles, atau retail analytics
-
-**Long Term (6 bulan+):**
-1. **Specialize**: Pilih domain spesifik dan menjadi expert
-2. **Contribute**: Open source contributions atau technical writing
-3. **Build Products**: Develop commercial AI applications
 
 ### Final Thoughts
 
@@ -121,69 +79,6 @@ The future belongs to those who can combine technical skills dengan creativity d
 
 ---
 
-## Resources untuk Lanjutan
-
-### Dokumentasi & Tutorials
-- **TensorFlow Documentation**: Official guides dan tutorials
-- **OpenCV Tutorials**: Computer vision techniques
-- **Streamlit Gallery**: Inspirasi aplikasi web dengan Streamlit
-
-### Datasets untuk Practice
-- **Kaggle**: Kompetisi dan datasets gratis
-- **ImageNet**: Standard benchmark untuk image classification  
-- **COCO Dataset**: Object detection dan segmentation
-
-### Communities
-- **Reddit r/MachineLearning**: Diskusi dan updates terbaru
-- **Stack Overflow**: Q&A untuk technical problems
-- **GitHub**: Explore open source AI projects
-
-### Online Courses
-- **Fast.ai**: Practical deep learning course
-- **CS231n Stanford**: Computer vision course (free)
-- **Coursera Deep Learning Specialization**: Comprehensive curriculum
-
-**Remember: The best way to learn is by doing. Keep building, keep experimenting, keep learning! 💪**
-
----
-
-## Appendix: Resources untuk Continued Learning
-
-### Essential Reading
-- **"Deep Learning" by Ian Goodfellow**: Comprehensive theoretical foundation
-- **"Hands-On Machine Learning" by Aurélien Géron**: Practical implementation guide
-- **"Computer Vision: Algorithms and Applications" by Richard Szeliski**: Deep dive into CV
-
-### Online Courses
-- **CS231n (Stanford)**: Convolutional Neural Networks for Visual Recognition
-- **Fast.ai Practical Deep Learning**: Hands-on approach untuk practitioners
-- **Coursera Deep Learning Specialization**: Comprehensive curriculum by Andrew Ng
-
-### Communities dan Forums
-- **Papers With Code**: Latest research dengan code implementations
-- **Towards Data Science**: Medium publication dengan practical articles
-- **Reddit r/MachineLearning**: Discussion dan latest developments
-- **Stack Overflow**: Technical Q&A untuk specific problems
-
-### Tools dan Frameworks
-- **Hugging Face**: Pre-trained models dan datasets
-- **Weights & Biases**: Experiment tracking dan model management
-- **TensorBoard**: Visualization untuk TensorFlow development
-- **MLflow**: End-to-end ML lifecycle management
-
-### Datasets untuk Practice
-- **ImageNet**: Standard benchmark untuk image classification
-- **COCO**: Object detection dan segmentation
-- **Open Images**: Large-scale dataset dengan diverse categories
-- **Kaggle Competitions**: Real-world problems dengan leaderboards
-
-### Stay Updated
-- **arXiv.org**: Latest research papers
-- **Google AI Blog**: Industry insights dan breakthrough
-- **OpenAI Blog**: Cutting-edge research updates
-- **Distill.pub**: Visual explanations of ML concepts
-
----
 
 *"The best way to predict the future is to create it."* - Peter Drucker
 
